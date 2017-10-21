@@ -1,0 +1,8 @@
+[submodule "Assets/Plugins/Mooble"]
+	path = Assets/Plugins/Mooble
+	url = https://github.com/uken/mooble
+	branch = master
+[submodule "mooble"]
+	path = mooble
+	url = https://github.com/uken/mooble
+	branch = master
